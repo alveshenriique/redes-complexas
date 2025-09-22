@@ -49,9 +49,11 @@ A análise foi conduzida em múltiplas camadas para extrair insights tanto da es
 Para replicar esta análise, siga os passos abaixo:
 
 1.  **Clone o repositório:**
+
+    Para obter uma cópia local do projeto, clone este repositório usando o seguinte comando no seu terminal:
+
     ```bash
-    git clone [https://github.com/alveshenriique/redes-complexas.git](https://github.com/alveshenriique/redes-complexas)
-    cd analise-redes-sociais-felca
+    git clone [https://github.com/alveshenriique/redes-complexas.git](https://github.com/alveshenriique/redes-complexas.git)
     ```
 
 2.  **Crie e ative um ambiente virtual:**
