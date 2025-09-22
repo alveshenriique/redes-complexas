@@ -7,10 +7,7 @@ from tqdm import tqdm
 from collections import Counter
 
 def coletar_rede_de_interacoes(video_id, api_key):
-    """
-    Coleta de forma integrada os comentários e suas respostas de um vídeo,
-    gerando diretamente os arquivos de nós e arestas para análise de redes.
-    """
+    #Coleta de forma integrada os comentários e suas respostas de um vídeo, gerando diretamente os arquivos de nós e arestas para análise de redes.
     try:
         youtube = build("youtube", "v3", developerKey=api_key)
         print("Conexão com a API do YouTube estabelecida.")
@@ -18,7 +15,7 @@ def coletar_rede_de_interacoes(video_id, api_key):
         nodes = {}  # Dicionário para armazenar nós (usuários) e evitar duplicatas
         edges = []  # Lista para armazenar as arestas (interações)
 
-        # --- PARTE 1: Coleta de Comentários Principais e suas Respostas ---
+        # PARTE 1: Coleta de Comentários Principais e suas Respostas
         print("\nIniciando a coleta integrada de comentários e respostas...")
         
         next_page_token_threads = None
@@ -83,7 +80,7 @@ def coletar_rede_de_interacoes(video_id, api_key):
         
         print("\nColeta finalizada!")
 
-        # --- PARTE 2: Processamento e Salvamento dos Arquivos da Rede ---
+        #PARTE 2: Processamento e Salvamento dos Arquivos da Rede
         if not edges:
             print("Nenhuma interação de resposta foi encontrada. Nenhum arquivo de rede foi gerado.")
             return
@@ -114,7 +111,7 @@ def coletar_rede_de_interacoes(video_id, api_key):
     except Exception as e:
         print(f"\nOcorreu um erro inesperado: {e}")
 
-# --- PONTO DE ENTRADA DO SCRIPT ---
+#PONTO DE ENTRADA DO SCRIPT
 if __name__ == "__main__":
     load_dotenv()
     API_KEY = os.getenv("YOUTUBE_API_KEY")
