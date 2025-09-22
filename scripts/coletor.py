@@ -3,24 +3,26 @@ import pandas as pd
 from dotenv import load_dotenv
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
-from tqdm import tqdm
 from collections import Counter
+# A importação da "tqdm" foi removida.
 
-def coletar_rede_de_interacoes(video_id, api_key):
-    #Coleta de forma integrada os comentários e suas respostas de um vídeo, gerando diretamente os arquivos de nós e arestas para análise de redes.
+def coletar_dados_completos(video_id, api_key):
+    # Coleta de forma integrada a rede de interações e o conteúdo textual dos comentários,
+    # gerando três arquivos CSV como saída.
     try:
         youtube = build("youtube", "v3", developerKey=api_key)
         print("Conexão com a API do YouTube estabelecida.")
 
-        nodes = {}  # Dicionário para armazenar nós (usuários) e evitar duplicatas
-        edges = []  # Lista para armazenar as arestas (interações)
+        nodes = {}
+        edges = []
+        all_comments = []
 
-        # PARTE 1: Coleta de Comentários Principais e suas Respostas
-        print("\nIniciando a coleta integrada de comentários e respostas...")
+        # PARTE 1: COLETA DE COMENTÁRIOS E RESPOSTAS
+        print("\nIniciando a coleta de dados")
         
         next_page_token_threads = None
         
-        # O laço externo pagina através dos comentários principais
+        # O laço externo pagina através dos comentários principais.
         while True:
             request_threads = youtube.commentThreads().list(
                 part="snippet",
@@ -31,21 +33,29 @@ def coletar_rede_de_interacoes(video_id, api_key):
             )
             response_threads = request_threads.execute()
 
-            # Itera sobre cada comentário principal da página
-            for item in tqdm(response_threads["items"], desc="Processando comentários da página"):
+            # O wrapper tqdm(...) foi removido do laço for abaixo.
+            # Itera sobre cada comentário principal da página.
+            for item in response_threads["items"]:
                 top_comment = item["snippet"]["topLevelComment"]
+                
                 author_parent = top_comment["snippet"]["authorDisplayName"]
                 comment_id_parent = top_comment["id"]
                 
-                # Adiciona o autor do comentário principal à lista de nós
+                all_comments.append({
+                    'comment_id': comment_id_parent,
+                    'author': author_parent,
+                    'text': top_comment["snippet"]["textOriginal"],
+                    'likes': top_comment["snippet"]["likeCount"],
+                    'timestamp': top_comment["snippet"]["publishedAt"],
+                    'parent_id': None 
+                })
+                
                 if author_parent not in nodes:
                     nodes[author_parent] = {'total_comments': 0, 'total_replies_received': 0}
                 nodes[author_parent]['total_comments'] += 1
 
-                # Verifica se há respostas para coletar
                 if item["snippet"]["totalReplyCount"] > 0:
                     next_page_token_replies = None
-                    # O laço interno pagina através das respostas de UM comentário principal
                     while True:
                         try:
                             request_replies = youtube.comments().list(
@@ -59,11 +69,18 @@ def coletar_rede_de_interacoes(video_id, api_key):
                             for reply_item in response_replies["items"]:
                                 author_reply = reply_item["snippet"]["authorDisplayName"]
                                 
-                                # Adiciona o autor da resposta à lista de nós
+                                all_comments.append({
+                                    'comment_id': reply_item["id"],
+                                    'author': author_reply,
+                                    'text': reply_item["snippet"]["textOriginal"],
+                                    'likes': reply_item["snippet"]["likeCount"],
+                                    'timestamp': reply_item["snippet"]["publishedAt"],
+                                    'parent_id': comment_id_parent
+                                })
+                                
                                 if author_reply not in nodes:
                                     nodes[author_reply] = {'total_comments': 0, 'total_replies_received': 0}
                                 
-                                # Adiciona a aresta
                                 edges.append({'source': author_reply, 'target': author_parent})
                                 nodes[author_parent]['total_replies_received'] += 1
 
@@ -71,7 +88,6 @@ def coletar_rede_de_interacoes(video_id, api_key):
                             if not next_page_token_replies:
                                 break
                         except HttpError:
-                            # Ignora erros em respostas de comentários individuais
                             break
             
             next_page_token_threads = response_threads.get("nextPageToken")
@@ -80,44 +96,36 @@ def coletar_rede_de_interacoes(video_id, api_key):
         
         print("\nColeta finalizada!")
 
-        #PARTE 2: Processamento e Salvamento dos Arquivos da Rede
-        if not edges:
-            print("Nenhuma interação de resposta foi encontrada. Nenhum arquivo de rede foi gerado.")
-            return
-
-        print("Processando e salvando os arquivos da rede...")
-
-        # Criando o DataFrame de arestas com pesos
-        edge_counts = Counter((e['source'], e['target']) for e in edges)
-        df_arestas = pd.DataFrame([{'source': k[0], 'target': k[1], 'peso': v} for k, v in edge_counts.items()])
+        # PARTE 2: PROCESSAMENTO E SALVAMENTO DOS ARQUIVOS DA REDE
+        if edges:
+            edge_counts = Counter((e['source'], e['target']) for e in edges)
+            df_arestas = pd.DataFrame([{'source': k[0], 'target': k[1], 'peso': v} for k, v in edge_counts.items()])
+            df_nos = pd.DataFrame.from_dict(nodes, orient='index', columns=['total_comments', 'total_replies_received'])
+            df_nos.index.name = 'id'
+            df_nos.reset_index(inplace=True)
+            
+            df_arestas.to_csv('data/raw/rede_usuarios_arestas.csv', index=False, encoding='utf-8-sig')
+            df_nos.to_csv('data/raw/rede_usuarios_nos.csv', index=False, encoding='utf-8-sig')
+            print("Arquivos de rede gerados com sucesso.")
         
-        # Criando o DataFrame de nós
-        df_nos = pd.DataFrame.from_dict(nodes, orient='index')
-        df_nos.index.name = 'id' # O nome do autor será o ID do nó
-        df_nos.reset_index(inplace=True)
-
-        # Salvando os arquivos
-        df_arestas.to_csv('rede_usuarios_arestas.csv', index=False, encoding='utf-8-sig')
-        df_nos.to_csv('rede_usuarios_nos.csv', index=False, encoding='utf-8-sig')
-
-        print("\nArquivos de rede gerados com sucesso:")
-        print(f"- rede_usuarios_nos.csv ({len(df_nos)} usuários)")
-        print(f"- rede_usuarios_arestas.csv ({len(df_arestas)} interações únicas)")
+        # PARTE 3: PROCESSAMENTO E SALVAMENTO DO ARQUIVO DE COMENTÁRIOS
+        if all_comments:
+            df_comments = pd.DataFrame(all_comments)
+            df_comments.to_csv('data/raw/comentarios.csv', index=False, encoding='utf-8-sig')
+            print("Arquivo de comentários gerado com sucesso.")
 
     except HttpError as e:
         print(f"\nOcorreu um erro na chamada da API: {e}")
-        if "quotaExceeded" in str(e):
-            print("ERRO: Sua cota diária da API do YouTube foi excedida.")
     except Exception as e:
         print(f"\nOcorreu um erro inesperado: {e}")
 
-#PONTO DE ENTRADA DO SCRIPT
+# PONTO DE ENTRADA DO SCRIPT
 if __name__ == "__main__":
     load_dotenv()
     API_KEY = os.getenv("YOUTUBE_API_KEY")
-    VIDEO_ID = "FpsCzFGL1LE"
+    VIDEO_ID = "FpsCzFGL1LE" 
     
     if not API_KEY or API_KEY == "SUA_CHAVE_DE_API_VAI_AQUI":
         print("ERRO: A chave da API não foi configurada no arquivo .env")
     else:
-        coletar_rede_de_interacoes(video_id=VIDEO_ID, api_key=API_KEY)
+        coletar_dados_completos(video_id=VIDEO_ID, api_key=API_KEY)

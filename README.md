@@ -15,7 +15,7 @@ O projeto é organizado na seguinte estrutura de pastas para garantir a reprodut
     -   `data/processed/`: Armazena os dados processados e preparados para visualização (ex: `grafo_completo_gephi.gexf`).
 -   **/notebooks**: Contém os Jupyter Notebooks com o passo a passo da análise exploratória, cálculos e documentação do processo.
 -   **/scripts**: Armazena os scripts em Python (`.py`) para tarefas específicas e reutilizáveis, como o coletor de dados da API.
--   **/figures**: Armazena as saídas visuais da análise, como os grafos gerados pelo Gephi (ex: `figura1_rede_completa.svg`).
+-   **/figures**: Armazena as saídas visuais da análise, como os grafos gerados pelo Gephi (ex: `grafo_completo.svg`).
 
 ---
 
@@ -50,7 +50,7 @@ Para replicar esta análise, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/analise-redes-sociais-felca.git](https://github.com/seu-usuario/analise-redes-sociais-felca.git)
+    git clone [https://github.com/alveshenriique/redes-complexas.git](https://github.com/alveshenriique/redes-complexas)
     cd analise-redes-sociais-felca
     ```
 

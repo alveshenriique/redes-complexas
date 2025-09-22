@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2025-09-17">
+  <meta lastmodifieddate="2025-09-22">
     <creator>NetworkX 3.5</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -12,111 +12,57 @@
       <attribute id="1" title="grau_ponderado" type="long" />
     </attributes>
     <nodes>
-      <node id="@SEGUNDOCONSTA" label="@SEGUNDOCONSTA">
-        <attvalues>
-          <attvalue for="0" value="19" />
-          <attvalue for="1" value="10" />
-        </attvalues>
-      </node>
-      <node id="@Kuroshovskivarovikisywi" label="@Kuroshovskivarovikisywi">
-        <attvalues>
-          <attvalue for="0" value="9" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@Nēčtøryx" label="@Nēčtøryx">
+      <node id="@JoãoVictorBartah" label="@JoãoVictorBartah">
         <attvalues>
           <attvalue for="0" value="13" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@MariaClara-yp1zq" label="@MariaClara-yp1zq">
-        <attvalues>
-          <attvalue for="0" value="18" />
-          <attvalue for="1" value="8" />
-        </attvalues>
-      </node>
-      <node id="@catypyp" label="@catypyp">
-        <attvalues>
-          <attvalue for="0" value="11" />
           <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="@Marisquizo11" label="@Marisquizo11">
-        <attvalues>
-          <attvalue for="0" value="6" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@EmillyVitóriaAlmeidaDornelles" label="@EmillyVitóriaAlmeidaDornelles">
-        <attvalues>
-          <attvalue for="0" value="13" />
-          <attvalue for="1" value="9" />
-        </attvalues>
-      </node>
-      <node id="@kaylanesilva5789" label="@kaylanesilva5789">
-        <attvalues>
-          <attvalue for="0" value="18" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@ralsei2681" label="@ralsei2681">
-        <attvalues>
-          <attvalue for="0" value="28" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@leandroalbuquerque1652" label="@leandroalbuquerque1652">
-        <attvalues>
-          <attvalue for="0" value="34" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@cunhanavarro" label="@cunhanavarro">
-        <attvalues>
-          <attvalue for="0" value="28" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@Okkyll" label="@Okkyll">
-        <attvalues>
-          <attvalue for="0" value="13" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@balaxd00" label="@balaxd00">
-        <attvalues>
-          <attvalue for="0" value="19" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@spongebobrewind-bob" label="@spongebobrewind-bob">
+      <node id="@Viviane-je7nv" label="@Viviane-je7nv">
         <attvalues>
           <attvalue for="0" value="33" />
-          <attvalue for="1" value="0" />
+          <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="@tiffanyglitterizada" label="@tiffanyglitterizada">
+      <node id="@adrianvantasset8081" label="@adrianvantasset8081">
         <attvalues>
           <attvalue for="0" value="19" />
-          <attvalue for="1" value="4" />
+          <attvalue for="1" value="25" />
         </attvalues>
       </node>
-      <node id="@aloi4" label="@aloi4">
+      <node id="@alex_12340" label="@alex_12340">
         <attvalues>
-          <attvalue for="0" value="20" />
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@ravenafãclubedevicc" label="@ravenafãclubedevicc">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@DragonCityColeção" label="@DragonCityColeção">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@Acerola-nd8fg" label="@Acerola-nd8fg">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@LuísaDomingues-e2j" label="@LuísaDomingues-e2j">
+        <attvalues>
+          <attvalue for="0" value="10" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="@tiagopires8999" label="@tiagopires8999">
+      <node id="@shortsdoJosé-k6l" label="@shortsdoJosé-k6l">
         <attvalues>
-          <attvalue for="0" value="9" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@liacozer" label="@liacozer">
-        <attvalues>
-          <attvalue for="0" value="17" />
+          <attvalue for="0" value="23" />
           <attvalue for="1" value="0" />
         </attvalues>
       </node>
@@ -126,130 +72,100 @@
           <attvalue for="1" value="4" />
         </attvalues>
       </node>
-      <node id="@laelsonborges-q5i" label="@laelsonborges-q5i">
+      <node id="@VitoriaSouza-fz3ej" label="@VitoriaSouza-fz3ej">
         <attvalues>
-          <attvalue for="0" value="7" />
-          <attvalue for="1" value="4" />
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="@MarcosAndre-to6zs" label="@MarcosAndre-to6zs">
+      <node id="@joaopaulosantana899" label="@joaopaulosantana899">
         <attvalues>
-          <attvalue for="0" value="33" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@Eevee_verso" label="@Eevee_verso">
-        <attvalues>
-          <attvalue for="0" value="26" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@AugusttoDalzotto" label="@AugusttoDalzotto">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="70" />
-        </attvalues>
-      </node>
-      <node id="@nick_reus" label="@nick_reus">
-        <attvalues>
-          <attvalue for="0" value="14" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@gabrielbastosalvim8297" label="@gabrielbastosalvim8297">
-        <attvalues>
-          <attvalue for="0" value="28" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@DiegoSilva-dd4eq" label="@DiegoSilva-dd4eq">
-        <attvalues>
-          <attvalue for="0" value="31" />
+          <attvalue for="0" value="4" />
           <attvalue for="1" value="0" />
         </attvalues>
       </node>
-      <node id="@luksreakt" label="@luksreakt">
+      <node id="@swasfutebol" label="@swasfutebol">
         <attvalues>
-          <attvalue for="0" value="5" />
+          <attvalue for="0" value="11" />
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
-      <node id="@angeldevoss" label="@angeldevoss">
-        <attvalues>
-          <attvalue for="0" value="3" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@tatianesmedeiros" label="@tatianesmedeiros">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@bot-c5n" label="@bot-c5n">
-        <attvalues>
-          <attvalue for="0" value="7" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@Coizas" label="@Coizas">
+      <node id="@Mateussilvadearauj" label="@Mateussilvadearauj">
         <attvalues>
           <attvalue for="0" value="22" />
-          <attvalue for="1" value="8" />
+          <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="@Caiquecsf" label="@Caiquecsf">
-        <attvalues>
-          <attvalue for="0" value="6" />
-          <attvalue for="1" value="13" />
-        </attvalues>
-      </node>
-      <node id="@GeovannaVictoria-e2k" label="@GeovannaVictoria-e2k">
+      <node id="@Reimacaco-f8p" label="@Reimacaco-f8p">
         <attvalues>
           <attvalue for="0" value="7" />
-          <attvalue for="1" value="7" />
+          <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="@FãdaPessy" label="@FãdaPessy">
+      <node id="@angelicacatarina4472" label="@angelicacatarina4472">
         <attvalues>
-          <attvalue for="0" value="14" />
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@oblivion.4ngel" label="@oblivion.4ngel">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@patriciabrandao2355" label="@patriciabrandao2355">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="@Hidekirrr" label="@Hidekirrr">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@anticapitalistinho" label="@anticapitalistinho">
+        <attvalues>
+          <attvalue for="0" value="18" />
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
-      <node id="@alexalves4733" label="@alexalves4733">
+      <node id="@ivi8060" label="@ivi8060">
         <attvalues>
-          <attvalue for="0" value="6" />
-          <attvalue for="1" value="4" />
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="@Valdenor-i7k" label="@Valdenor-i7k">
+      <node id="@werneroliveira6712" label="@werneroliveira6712">
         <attvalues>
-          <attvalue for="0" value="6" />
-          <attvalue for="1" value="5" />
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="6" />
         </attvalues>
       </node>
-      <node id="@Adiano355" label="@Adiano355">
+      <node id="@FXdarlysson" label="@FXdarlysson">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@jvarthurcostasilva" label="@jvarthurcostasilva">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@jmsm_pt355" label="@jmsm_pt355">
         <attvalues>
           <attvalue for="0" value="16" />
-          <attvalue for="1" value="11" />
+          <attvalue for="1" value="0" />
         </attvalues>
       </node>
-      <node id="@GabrielolliverAlmeida" label="@GabrielolliverAlmeida">
+      <node id="@catypyp" label="@catypyp">
         <attvalues>
-          <attvalue for="0" value="18" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@Bagucinhadasarah" label="@Bagucinhadasarah">
-        <attvalues>
-          <attvalue for="0" value="14" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@marialoureiro9838" label="@marialoureiro9838">
-        <attvalues>
-          <attvalue for="0" value="33" />
-          <attvalue for="1" value="5" />
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="2" />
         </attvalues>
       </node>
       <node id="@Joaquim_Brum" label="@Joaquim_Brum">
@@ -258,81 +174,105 @@
           <attvalue for="1" value="0" />
         </attvalues>
       </node>
-      <node id="@lelaaraujolima2927" label="@lelaaraujolima2927">
+      <node id="@fatima.madeira" label="@fatima.madeira">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@spongebobrewind-bob" label="@spongebobrewind-bob">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@Coizas" label="@Coizas">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@Miguelv590" label="@Miguelv590">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@GabrielolliverAlmeida" label="@GabrielolliverAlmeida">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@ErasCraft" label="@ErasCraft">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@Lady-Lambdadelta" label="@Lady-Lambdadelta">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@nick_reus" label="@nick_reus">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@viniciusalgumacoisa" label="@viniciusalgumacoisa">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@factsoflife-j5k" label="@factsoflife-j5k">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@AugusttoDalzotto" label="@AugusttoDalzotto">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="70" />
+        </attvalues>
+      </node>
+      <node id="@João-o8f7" label="@João-o8f7">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@egleromeiro" label="@egleromeiro">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@EstêvãoRocha-e5l" label="@EstêvãoRocha-e5l">
         <attvalues>
           <attvalue for="0" value="19" />
-          <attvalue for="1" value="6" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@JoaoSantos-i6v" label="@JoaoSantos-i6v">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@adeildomartins487" label="@adeildomartins487">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="7" />
         </attvalues>
       </node>
       <node id="@Jp-g4cy" label="@Jp-g4cy">
         <attvalues>
           <attvalue for="0" value="13" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@julliaperez1127" label="@julliaperez1127">
-        <attvalues>
-          <attvalue for="0" value="27" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@IzabellalemosnascimentoBella" label="@IzabellalemosnascimentoBella">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="9" />
-        </attvalues>
-      </node>
-      <node id="@AnnyKarolineSantosSilva-f3e" label="@AnnyKarolineSantosSilva-f3e">
-        <attvalues>
-          <attvalue for="0" value="9" />
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </node>
-      <node id="@Biazinha-wuw" label="@Biazinha-wuw">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@Kauan_Santos384" label="@Kauan_Santos384">
-        <attvalues>
-          <attvalue for="0" value="6" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@mateusduarte8699" label="@mateusduarte8699">
-        <attvalues>
-          <attvalue for="0" value="17" />
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </node>
-      <node id="@xtheusz" label="@xtheusz">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@omiguelzinpro" label="@omiguelzinpro">
-        <attvalues>
-          <attvalue for="0" value="23" />
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </node>
-      <node id="@Anne_Antunes" label="@Anne_Antunes">
-        <attvalues>
-          <attvalue for="0" value="16" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@Benny_Yaky" label="@Benny_Yaky">
-        <attvalues>
-          <attvalue for="0" value="17" />
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </node>
-      <node id="@ferramentaboats6778" label="@ferramentaboats6778">
-        <attvalues>
-          <attvalue for="0" value="24" />
           <attvalue for="1" value="7" />
         </attvalues>
       </node>
@@ -342,123 +282,39 @@
           <attvalue for="1" value="4" />
         </attvalues>
       </node>
-      <node id="@alucardvambel2477" label="@alucardvambel2477">
-        <attvalues>
-          <attvalue for="0" value="2" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@KemillyGarcia-h8j" label="@KemillyGarcia-h8j">
+      <node id="@ChrysBlox" label="@ChrysBlox">
         <attvalues>
           <attvalue for="0" value="22" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@Itz_Madara_yt" label="@Itz_Madara_yt">
-        <attvalues>
-          <attvalue for="0" value="16" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@0Lalizinha0" label="@0Lalizinha0">
-        <attvalues>
-          <attvalue for="0" value="7" />
           <attvalue for="1" value="4" />
         </attvalues>
       </node>
-      <node id="@LuizaLuiza-h7k" label="@LuizaLuiza-h7k">
+      <node id="@DakiniDaya" label="@DakiniDaya">
         <attvalues>
-          <attvalue for="0" value="11" />
-          <attvalue for="1" value="12" />
-        </attvalues>
-      </node>
-      <node id="@Mateussilvadearauj" label="@Mateussilvadearauj">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@werneroliveira6712" label="@werneroliveira6712">
-        <attvalues>
-          <attvalue for="0" value="13" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@titiobarao" label="@titiobarao">
-        <attvalues>
-          <attvalue for="0" value="13" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@fatima.madeira" label="@fatima.madeira">
-        <attvalues>
-          <attvalue for="0" value="6" />
+          <attvalue for="0" value="19" />
           <attvalue for="1" value="7" />
         </attvalues>
       </node>
-      <node id="@adrianvantasset8081" label="@adrianvantasset8081">
+      <node id="@claitontinho3908" label="@claitontinho3908">
         <attvalues>
-          <attvalue for="0" value="19" />
-          <attvalue for="1" value="25" />
-        </attvalues>
-      </node>
-      <node id="@jogadordouniverso2037" label="@jogadordouniverso2037">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@VontadedoFogo." label="@VontadedoFogo.">
-        <attvalues>
-          <attvalue for="0" value="34" />
+          <attvalue for="0" value="32" />
           <attvalue for="1" value="9" />
         </attvalues>
       </node>
-      <node id="@Nycolas-cria" label="@Nycolas-cria">
+      <node id="@SantanaWithout4" label="@SantanaWithout4">
         <attvalues>
-          <attvalue for="0" value="21" />
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="@cunhanavarro" label="@cunhanavarro">
+        <attvalues>
+          <attvalue for="0" value="28" />
           <attvalue for="1" value="6" />
         </attvalues>
       </node>
-      <node id="@AlexandreTeixeira1" label="@AlexandreTeixeira1">
+      <node id="@riquinhomalokaoficial5816" label="@riquinhomalokaoficial5816">
         <attvalues>
-          <attvalue for="0" value="19" />
-          <attvalue for="1" value="20" />
-        </attvalues>
-      </node>
-      <node id="@GodlyII" label="@GodlyII">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="11" />
-        </attvalues>
-      </node>
-      <node id="@Nãoseioqcolocar-k9p" label="@Nãoseioqcolocar-k9p">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@JoaoSantos-i6v" label="@JoaoSantos-i6v">
-        <attvalues>
-          <attvalue for="0" value="16" />
-          <attvalue for="1" value="8" />
-        </attvalues>
-      </node>
-      <node id="@oblivion.4ngel" label="@oblivion.4ngel">
-        <attvalues>
-          <attvalue for="0" value="17" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@jmsm_pt355" label="@jmsm_pt355">
-        <attvalues>
-          <attvalue for="0" value="16" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@MURILLOBFR" label="@MURILLOBFR">
-        <attvalues>
-          <attvalue for="0" value="22" />
+          <attvalue for="0" value="24" />
           <attvalue for="1" value="5" />
         </attvalues>
       </node>
@@ -468,435 +324,27 @@
           <attvalue for="1" value="13" />
         </attvalues>
       </node>
-      <node id="@richas099" label="@richas099">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="8" />
-        </attvalues>
-      </node>
-      <node id="@DragonCityColeção" label="@DragonCityColeção">
-        <attvalues>
-          <attvalue for="0" value="14" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@bcastiel" label="@bcastiel">
-        <attvalues>
-          <attvalue for="0" value="32" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@jhonmilers1245" label="@jhonmilers1245">
-        <attvalues>
-          <attvalue for="0" value="34" />
-          <attvalue for="1" value="19" />
-        </attvalues>
-      </node>
-      <node id="@Alessin_mdc" label="@Alessin_mdc">
-        <attvalues>
-          <attvalue for="0" value="6" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@Reimacaco-f8p" label="@Reimacaco-f8p">
-        <attvalues>
-          <attvalue for="0" value="7" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@SilmaraSilva-o6s" label="@SilmaraSilva-o6s">
-        <attvalues>
-          <attvalue for="0" value="16" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@Miguelv590" label="@Miguelv590">
-        <attvalues>
-          <attvalue for="0" value="26" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@aeep777-n3p" label="@aeep777-n3p">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="26" />
-        </attvalues>
-      </node>
-      <node id="@VauanyOliveira" label="@VauanyOliveira">
-        <attvalues>
-          <attvalue for="0" value="26" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@Lucas-vd2gx" label="@Lucas-vd2gx">
-        <attvalues>
-          <attvalue for="0" value="9" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@angelicacatarina4472" label="@angelicacatarina4472">
-        <attvalues>
-          <attvalue for="0" value="4" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@iamsopro-q6y" label="@iamsopro-q6y">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@theharbingerofconflation" label="@theharbingerofconflation">
-        <attvalues>
-          <attvalue for="0" value="19" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@Gabriel_Arcanjo_lgbt" label="@Gabriel_Arcanjo_lgbt">
-        <attvalues>
-          <attvalue for="0" value="34" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@MariaEduardaFerreira-b6k" label="@MariaEduardaFerreira-b6k">
-        <attvalues>
-          <attvalue for="0" value="14" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@Comunista_Enrustida6378" label="@Comunista_Enrustida6378">
-        <attvalues>
-          <attvalue for="0" value="34" />
-          <attvalue for="1" value="16" />
-        </attvalues>
-      </node>
-      <node id="@Tubekkj" label="@Tubekkj">
-        <attvalues>
-          <attvalue for="0" value="7" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@Palmeiras2335" label="@Palmeiras2335">
-        <attvalues>
-          <attvalue for="0" value="26" />
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </node>
-      <node id="@o.pedro_ferreirakp" label="@o.pedro_ferreirakp">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="13" />
-        </attvalues>
-      </node>
-      <node id="@LuísaDomingues-e2j" label="@LuísaDomingues-e2j">
-        <attvalues>
-          <attvalue for="0" value="10" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@dezoito18sbm" label="@dezoito18sbm">
-        <attvalues>
-          <attvalue for="0" value="30" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@gabrielf.7968" label="@gabrielf.7968">
-        <attvalues>
-          <attvalue for="0" value="33" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@Jota_Beto" label="@Jota_Beto">
-        <attvalues>
-          <attvalue for="0" value="27" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@fabioluna2952" label="@fabioluna2952">
-        <attvalues>
-          <attvalue for="0" value="12" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@NatachaCavalheiro-o3j" label="@NatachaCavalheiro-o3j">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="11" />
-        </attvalues>
-      </node>
       <node id="@ZERODARKl444" label="@ZERODARKl444">
         <attvalues>
           <attvalue for="0" value="19" />
           <attvalue for="1" value="6" />
         </attvalues>
       </node>
-      <node id="@BabidiCharmoso" label="@BabidiCharmoso">
-        <attvalues>
-          <attvalue for="0" value="3" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@kath-s5y" label="@kath-s5y">
-        <attvalues>
-          <attvalue for="0" value="13" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@ApenasMemes-0" label="@ApenasMemes-0">
-        <attvalues>
-          <attvalue for="0" value="6" />
-          <attvalue for="1" value="9" />
-        </attvalues>
-      </node>
-      <node id="@TheRobot-v4j" label="@TheRobot-v4j">
-        <attvalues>
-          <attvalue for="0" value="5" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@Arthur_Rigo_Andrade" label="@Arthur_Rigo_Andrade">
-        <attvalues>
-          <attvalue for="0" value="16" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@mabiasilveira2468" label="@mabiasilveira2468">
-        <attvalues>
-          <attvalue for="0" value="9" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@Tx_Anderr" label="@Tx_Anderr">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@daniloamaranto3183" label="@daniloamaranto3183">
-        <attvalues>
-          <attvalue for="0" value="9" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@RAFINHA-0ab" label="@RAFINHA-0ab">
+      <node id="@Naapsy" label="@Naapsy">
         <attvalues>
           <attvalue for="0" value="34" />
-          <attvalue for="1" value="4" />
+          <attvalue for="1" value="19" />
         </attvalues>
       </node>
-      <node id="@lulunvs" label="@lulunvs">
-        <attvalues>
-          <attvalue for="0" value="32" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@ARTHURGQMER007" label="@ARTHURGQMER007">
-        <attvalues>
-          <attvalue for="0" value="16" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@EnzoGabrielRomao-q4n" label="@EnzoGabrielRomao-q4n">
-        <attvalues>
-          <attvalue for="0" value="13" />
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </node>
-      <node id="@ax7miguelkkj" label="@ax7miguelkkj">
-        <attvalues>
-          <attvalue for="0" value="9" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@CarloseduardoSilvanunes-s3w6w" label="@CarloseduardoSilvanunes-s3w6w">
-        <attvalues>
-          <attvalue for="0" value="9" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@dendrobium4831" label="@dendrobium4831">
-        <attvalues>
-          <attvalue for="0" value="6" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@Loli-iw" label="@Loli-iw">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="26" />
-        </attvalues>
-      </node>
-      <node id="@ChrysBlox" label="@ChrysBlox">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </node>
-      <node id="@Samuel-blox-u4e" label="@Samuel-blox-u4e">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="9" />
-        </attvalues>
-      </node>
-      <node id="@viniciusalgumacoisa" label="@viniciusalgumacoisa">
-        <attvalues>
-          <attvalue for="0" value="26" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@Kauan20104" label="@Kauan20104">
-        <attvalues>
-          <attvalue for="0" value="16" />
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </node>
-      <node id="@cronosdimitri4584" label="@cronosdimitri4584">
-        <attvalues>
-          <attvalue for="0" value="19" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@paulopubur7760" label="@paulopubur7760">
-        <attvalues>
-          <attvalue for="0" value="34" />
-          <attvalue for="1" value="8" />
-        </attvalues>
-      </node>
-      <node id="@nessfromonett20" label="@nessfromonett20">
-        <attvalues>
-          <attvalue for="0" value="19" />
-          <attvalue for="1" value="4" />
-        </attvalues>
-      </node>
-      <node id="@carolindaaaa7" label="@carolindaaaa7">
-        <attvalues>
-          <attvalue for="0" value="31" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@bianca_editszinha" label="@bianca_editszinha">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@patriciabrandao2355" label="@patriciabrandao2355">
-        <attvalues>
-          <attvalue for="0" value="19" />
-          <attvalue for="1" value="15" />
-        </attvalues>
-      </node>
-      <node id="@Gladium_Victrix" label="@Gladium_Victrix">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@Hidekirrr" label="@Hidekirrr">
-        <attvalues>
-          <attvalue for="0" value="5" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@isisazevedodias815" label="@isisazevedodias815">
-        <attvalues>
-          <attvalue for="0" value="4" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@QuintetoFofura" label="@QuintetoFofura">
-        <attvalues>
-          <attvalue for="0" value="9" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@VitoriaSouza-fz3ej" label="@VitoriaSouza-fz3ej">
-        <attvalues>
-          <attvalue for="0" value="15" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@RethusOFC" label="@RethusOFC">
-        <attvalues>
-          <attvalue for="0" value="10" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@Kidmais18" label="@Kidmais18">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@Andre-o9t9t" label="@Andre-o9t9t">
-        <attvalues>
-          <attvalue for="0" value="30" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@FXdarlysson" label="@FXdarlysson">
+      <node id="@Benny_Yaky" label="@Benny_Yaky">
         <attvalues>
           <attvalue for="0" value="17" />
-          <attvalue for="1" value="6" />
+          <attvalue for="1" value="4" />
         </attvalues>
       </node>
-      <node id="@Miguelaparecidomarcilino" label="@Miguelaparecidomarcilino">
+      <node id="@fabioluna2952" label="@fabioluna2952">
         <attvalues>
-          <attvalue for="0" value="16" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@jonesmatheus2349" label="@jonesmatheus2349">
-        <attvalues>
-          <attvalue for="0" value="2" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@claitontinho3908" label="@claitontinho3908">
-        <attvalues>
-          <attvalue for="0" value="32" />
-          <attvalue for="1" value="9" />
-        </attvalues>
-      </node>
-      <node id="@Lady-Lambdadelta" label="@Lady-Lambdadelta">
-        <attvalues>
-          <attvalue for="0" value="34" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@jvarthurcostasilva" label="@jvarthurcostasilva">
-        <attvalues>
-          <attvalue for="0" value="10" />
-          <attvalue for="1" value="6" />
-        </attvalues>
-      </node>
-      <node id="@LeicesterForest-kd9sg" label="@LeicesterForest-kd9sg">
-        <attvalues>
-          <attvalue for="0" value="26" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="@Vitkrauserx" label="@Vitkrauserx">
-        <attvalues>
-          <attvalue for="0" value="35" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@WillianMiranda-r2q" label="@WillianMiranda-r2q">
-        <attvalues>
-          <attvalue for="0" value="17" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@alex_12340" label="@alex_12340">
-        <attvalues>
-          <attvalue for="0" value="1" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@Z-Carty" label="@Z-Carty">
-        <attvalues>
-          <attvalue for="0" value="5" />
+          <attvalue for="0" value="12" />
           <attvalue for="1" value="0" />
         </attvalues>
       </node>
@@ -906,15 +354,69 @@
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
-      <node id="@RafaelSantanabarbosa-k8f" label="@RafaelSantanabarbosa-k8f">
+      <node id="@Okkyll" label="@Okkyll">
         <attvalues>
-          <attvalue for="0" value="28" />
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@Andre-o9t9t" label="@Andre-o9t9t">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@RAFINHA-0ab" label="@RAFINHA-0ab">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@Migueldrs0da" label="@Migueldrs0da">
+        <attvalues>
+          <attvalue for="0" value="22" />
           <attvalue for="1" value="5" />
         </attvalues>
       </node>
-      <node id="@Anyh23" label="@Anyh23">
+      <node id="@Makoto-Souza-r6b" label="@Makoto-Souza-r6b">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@EdtsDaTropaDoTaspio12" label="@EdtsDaTropaDoTaspio12">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@bianca_editszinha" label="@bianca_editszinha">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@FãdaPessy" label="@FãdaPessy">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@Kidmais18" label="@Kidmais18">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@titiobarao" label="@titiobarao">
         <attvalues>
           <attvalue for="0" value="13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@Kauan20104" label="@Kauan20104">
+        <attvalues>
+          <attvalue for="0" value="16" />
           <attvalue for="1" value="4" />
         </attvalues>
       </node>
@@ -924,40 +426,16 @@
           <attvalue for="1" value="0" />
         </attvalues>
       </node>
-      <node id="@Naapsy" label="@Naapsy">
+      <node id="@ferramentaboats6778" label="@ferramentaboats6778">
         <attvalues>
-          <attvalue for="0" value="34" />
-          <attvalue for="1" value="19" />
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="7" />
         </attvalues>
       </node>
-      <node id="@Migueldrs0da" label="@Migueldrs0da">
+      <node id="@JeanCarlo-r2c" label="@JeanCarlo-r2c">
         <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@EstêvãoRocha-e5l" label="@EstêvãoRocha-e5l">
-        <attvalues>
-          <attvalue for="0" value="19" />
-          <attvalue for="1" value="8" />
-        </attvalues>
-      </node>
-      <node id="@shortsdoJosé-k6l" label="@shortsdoJosé-k6l">
-        <attvalues>
-          <attvalue for="0" value="23" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@João-o8f7" label="@João-o8f7">
-        <attvalues>
-          <attvalue for="0" value="17" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@Danony777" label="@Danony777">
-        <attvalues>
-          <attvalue for="0" value="29" />
-          <attvalue for="1" value="1" />
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="7" />
         </attvalues>
       </node>
       <node id="@Ruanggytb" label="@Ruanggytb">
@@ -966,94 +444,346 @@
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
+      <node id="@bcastiel" label="@bcastiel">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@xtheusz" label="@xtheusz">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@gabrielc6934" label="@gabrielc6934">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@LeicesterForest-kd9sg" label="@LeicesterForest-kd9sg">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@gabrielf.7968" label="@gabrielf.7968">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@o.pedro_ferreirakp" label="@o.pedro_ferreirakp">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="@laelsonborges-q5i" label="@laelsonborges-q5i">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@Palmeiras2335" label="@Palmeiras2335">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@Samuel-blox-u4e" label="@Samuel-blox-u4e">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@ApenasMemes-0" label="@ApenasMemes-0">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@Z-Carty" label="@Z-Carty">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@balaxd00" label="@balaxd00">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@MurilloRodrigues-w4r" label="@MurilloRodrigues-w4r">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@VauanyOliveira" label="@VauanyOliveira">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@GodlyII" label="@GodlyII">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="@SilmaraSilva-o6s" label="@SilmaraSilva-o6s">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@lelaaraujolima2927" label="@lelaaraujolima2927">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@mabiasilveira2468" label="@mabiasilveira2468">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@AlexandreTeixeira1" label="@AlexandreTeixeira1">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="@jonesmatheus2349" label="@jonesmatheus2349">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@ARTHURGQMER007" label="@ARTHURGQMER007">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@LuizaLuiza-h7k" label="@LuizaLuiza-h7k">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="@kath-s5y" label="@kath-s5y">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@Bagucinhadasarah" label="@Bagucinhadasarah">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@cronosdimitri4584" label="@cronosdimitri4584">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@Adiano355" label="@Adiano355">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="@catalystx7" label="@catalystx7">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@EnzoGabrielRomao-q4n" label="@EnzoGabrielRomao-q4n">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@CarloseduardoSilvanunes-s3w6w" label="@CarloseduardoSilvanunes-s3w6w">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@Gabriel_Arcanjo_lgbt" label="@Gabriel_Arcanjo_lgbt">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
       <node id="@lucasguedes5326" label="@lucasguedes5326">
         <attvalues>
           <attvalue for="0" value="17" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="@joaopaulosantana899" label="@joaopaulosantana899">
+      <node id="@carolindaaaa7" label="@carolindaaaa7">
         <attvalues>
-          <attvalue for="0" value="4" />
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@Lucas-vd2gx" label="@Lucas-vd2gx">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@Tubekkj" label="@Tubekkj">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@tatianesmedeiros" label="@tatianesmedeiros">
+        <attvalues>
+          <attvalue for="0" value="21" />
           <attvalue for="1" value="0" />
         </attvalues>
       </node>
-      <node id="@riquinhomalokaoficial5816" label="@riquinhomalokaoficial5816">
+      <node id="@DiegoSilva-dd4eq" label="@DiegoSilva-dd4eq">
         <attvalues>
-          <attvalue for="0" value="24" />
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@theharbingerofconflation" label="@theharbingerofconflation">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@Eevee_verso" label="@Eevee_verso">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@ax7miguelkkj" label="@ax7miguelkkj">
+        <attvalues>
+          <attvalue for="0" value="9" />
           <attvalue for="1" value="5" />
         </attvalues>
       </node>
-      <node id="@SantanaWithout4" label="@SantanaWithout4">
+      <node id="@alucardvambel2477" label="@alucardvambel2477">
         <attvalues>
-          <attvalue for="0" value="14" />
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@SEGUNDOCONSTA" label="@SEGUNDOCONSTA">
+        <attvalues>
+          <attvalue for="0" value="19" />
           <attvalue for="1" value="10" />
         </attvalues>
       </node>
-      <node id="@ravenafãclubedevicc" label="@ravenafãclubedevicc">
+      <node id="@kaylanesilva5789" label="@kaylanesilva5789">
         <attvalues>
-          <attvalue for="0" value="17" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@joelsonlimadeoliveiraolive9924" label="@joelsonlimadeoliveiraolive9924">
-        <attvalues>
-          <attvalue for="0" value="28" />
-          <attvalue for="1" value="8" />
-        </attvalues>
-      </node>
-      <node id="@Acerola-nd8fg" label="@Acerola-nd8fg">
-        <attvalues>
-          <attvalue for="0" value="10" />
+          <attvalue for="0" value="18" />
           <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="@joaopaulo.minasgererais" label="@joaopaulo.minasgererais">
+      <node id="@Nycolas-cria" label="@Nycolas-cria">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@Danony777" label="@Danony777">
+        <attvalues>
+          <attvalue for="0" value="29" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@Caiquecsf" label="@Caiquecsf">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="@MariaEduarda-i6z4h" label="@MariaEduarda-i6z4h">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="@TheRobot-v4j" label="@TheRobot-v4j">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@iamsopro-q6y" label="@iamsopro-q6y">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@Comunista_Enrustida6378" label="@Comunista_Enrustida6378">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </node>
+      <node id="@mateusduarte8699" label="@mateusduarte8699">
         <attvalues>
           <attvalue for="0" value="17" />
           <attvalue for="1" value="4" />
         </attvalues>
       </node>
-      <node id="@swasfutebol" label="@swasfutebol">
+      <node id="@Jatujato" label="@Jatujato">
         <attvalues>
-          <attvalue for="0" value="11" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@Nioniolion" label="@Nioniolion">
-        <attvalues>
-          <attvalue for="0" value="13" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@EdtsDaTropaDoTaspio12" label="@EdtsDaTropaDoTaspio12">
-        <attvalues>
-          <attvalue for="0" value="21" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
-      <node id="@egleromeiro" label="@egleromeiro">
-        <attvalues>
-          <attvalue for="0" value="8" />
-          <attvalue for="1" value="0" />
-        </attvalues>
-      </node>
-      <node id="@alinecruz2154" label="@alinecruz2154">
-        <attvalues>
-          <attvalue for="0" value="14" />
+          <attvalue for="0" value="22" />
           <attvalue for="1" value="7" />
         </attvalues>
       </node>
-      <node id="@Makoto-Souza-r6b" label="@Makoto-Souza-r6b">
+      <node id="@bot-c5n" label="@bot-c5n">
         <attvalues>
-          <attvalue for="0" value="30" />
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@marialoureiro9838" label="@marialoureiro9838">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@IzabellalemosnascimentoBella" label="@IzabellalemosnascimentoBella">
+        <attvalues>
+          <attvalue for="0" value="21" />
           <attvalue for="1" value="9" />
         </attvalues>
       </node>
-      <node id="@italo687" label="@italo687">
+      <node id="@Yasmii_mimi" label="@Yasmii_mimi">
         <attvalues>
-          <attvalue for="0" value="14" />
-          <attvalue for="1" value="12" />
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@QuintetoFofura" label="@QuintetoFofura">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@0Lalizinha0" label="@0Lalizinha0">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
         </attvalues>
       </node>
       <node id="@gon6alves2001" label="@gon6alves2001">
@@ -1068,22 +798,22 @@
           <attvalue for="1" value="6" />
         </attvalues>
       </node>
-      <node id="@eaedinonerdjogos" label="@eaedinonerdjogos">
+      <node id="@italo687" label="@italo687">
         <attvalues>
-          <attvalue for="0" value="15" />
-          <attvalue for="1" value="0" />
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="12" />
         </attvalues>
       </node>
-      <node id="@levi-x3e2r" label="@levi-x3e2r">
+      <node id="@Jota_Beto" label="@Jota_Beto">
         <attvalues>
-          <attvalue for="0" value="5" />
-          <attvalue for="1" value="9" />
+          <attvalue for="0" value="27" />
+          <attvalue for="1" value="3" />
         </attvalues>
       </node>
-      <node id="@JoaoLucasLyrics" label="@JoaoLucasLyrics">
+      <node id="@leandroalbuquerque1652" label="@leandroalbuquerque1652">
         <attvalues>
-          <attvalue for="0" value="12" />
-          <attvalue for="1" value="0" />
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="7" />
         </attvalues>
       </node>
       <node id="@Estúdio-k5z" label="@Estúdio-k5z">
@@ -1092,76 +822,28 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="@gamer25gm33" label="@gamer25gm33">
+      <node id="@Nãoseioqcolocar-k9p" label="@Nãoseioqcolocar-k9p">
         <attvalues>
           <attvalue for="0" value="21" />
-          <attvalue for="1" value="1" />
+          <attvalue for="1" value="6" />
         </attvalues>
       </node>
-      <node id="@Viviane-je7nv" label="@Viviane-je7nv">
-        <attvalues>
-          <attvalue for="0" value="33" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@JoãoVictorBartah" label="@JoãoVictorBartah">
-        <attvalues>
-          <attvalue for="0" value="13" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="@Jatujato" label="@Jatujato">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@adeildomartins487" label="@adeildomartins487">
-        <attvalues>
-          <attvalue for="0" value="22" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="@factsoflife-j5k" label="@factsoflife-j5k">
-        <attvalues>
-          <attvalue for="0" value="6" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@MariaEduarda-i6z4h" label="@MariaEduarda-i6z4h">
-        <attvalues>
-          <attvalue for="0" value="5" />
-          <attvalue for="1" value="10" />
-        </attvalues>
-      </node>
-      <node id="@AnaLeonor-p9c3i" label="@AnaLeonor-p9c3i">
-        <attvalues>
-          <attvalue for="0" value="15" />
-          <attvalue for="1" value="8" />
-        </attvalues>
-      </node>
-      <node id="@MurilloRodrigues-w4r" label="@MurilloRodrigues-w4r">
+      <node id="@joaopaulo.minasgererais" label="@joaopaulo.minasgererais">
         <attvalues>
           <attvalue for="0" value="17" />
-          <attvalue for="1" value="7" />
+          <attvalue for="1" value="4" />
         </attvalues>
       </node>
-      <node id="@ErasCraft" label="@ErasCraft">
+      <node id="@liacozer" label="@liacozer">
         <attvalues>
-          <attvalue for="0" value="10" />
-          <attvalue for="1" value="5" />
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="0" />
         </attvalues>
       </node>
-      <node id="@anticapitalistinho" label="@anticapitalistinho">
+      <node id="@jhonmilers1245" label="@jhonmilers1245">
         <attvalues>
-          <attvalue for="0" value="18" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
-      <node id="@bilada-sapeca" label="@bilada-sapeca">
-        <attvalues>
-          <attvalue for="0" value="11" />
-          <attvalue for="1" value="1" />
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="19" />
         </attvalues>
       </node>
       <node id="@fa_clube_da_tropa_do_zanella1" label="@fa_clube_da_tropa_do_zanella1">
@@ -1170,28 +852,244 @@
           <attvalue for="1" value="6" />
         </attvalues>
       </node>
-      <node id="@JeanCarlo-r2c" label="@JeanCarlo-r2c">
+      <node id="@Itz_Madara_yt" label="@Itz_Madara_yt">
         <attvalues>
-          <attvalue for="0" value="33" />
-          <attvalue for="1" value="7" />
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="@DakiniDaya" label="@DakiniDaya">
+      <node id="@alexalves4733" label="@alexalves4733">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@NatachaCavalheiro-o3j" label="@NatachaCavalheiro-o3j">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="@aeep777-n3p" label="@aeep777-n3p">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="26" />
+        </attvalues>
+      </node>
+      <node id="@daniloamaranto3183" label="@daniloamaranto3183">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@aloi4" label="@aloi4">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@tiffanyglitterizada" label="@tiffanyglitterizada">
         <attvalues>
           <attvalue for="0" value="19" />
-          <attvalue for="1" value="7" />
+          <attvalue for="1" value="4" />
         </attvalues>
       </node>
-      <node id="@catalystx7" label="@catalystx7">
+      <node id="@Kuroshovskivarovikisywi" label="@Kuroshovskivarovikisywi">
         <attvalues>
-          <attvalue for="0" value="7" />
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@bilada-sapeca" label="@bilada-sapeca">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@Valdenor-i7k" label="@Valdenor-i7k">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@luksreakt" label="@luksreakt">
+        <attvalues>
+          <attvalue for="0" value="5" />
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
-      <node id="@gabrielc6934" label="@gabrielc6934">
+      <node id="@Anyh23" label="@Anyh23">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@Arthur_Rigo_Andrade" label="@Arthur_Rigo_Andrade">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@nessfromonett20" label="@nessfromonett20">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@jogadordouniverso2037" label="@jogadordouniverso2037">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@levi-x3e2r" label="@levi-x3e2r">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@paulopubur7760" label="@paulopubur7760">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@Tx_Anderr" label="@Tx_Anderr">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@Kauan_Santos384" label="@Kauan_Santos384">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@lulunvs" label="@lulunvs">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@richas099" label="@richas099">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@julliaperez1127" label="@julliaperez1127">
+        <attvalues>
+          <attvalue for="0" value="27" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@Anne_Antunes" label="@Anne_Antunes">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@Vitkrauserx" label="@Vitkrauserx">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@Marisquizo11" label="@Marisquizo11">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@isisazevedodias815" label="@isisazevedodias815">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@AnaLeonor-p9c3i" label="@AnaLeonor-p9c3i">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@AnnyKarolineSantosSilva-f3e" label="@AnnyKarolineSantosSilva-f3e">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@JoaoLucasLyrics" label="@JoaoLucasLyrics">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@MariaEduardaFerreira-b6k" label="@MariaEduardaFerreira-b6k">
         <attvalues>
           <attvalue for="0" value="14" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@joelsonlimadeoliveiraolive9924" label="@joelsonlimadeoliveiraolive9924">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@Biazinha-wuw" label="@Biazinha-wuw">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@Alessin_mdc" label="@Alessin_mdc">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@VontadedoFogo." label="@VontadedoFogo.">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@Nioniolion" label="@Nioniolion">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@BabidiCharmoso" label="@BabidiCharmoso">
+        <attvalues>
+          <attvalue for="0" value="3" />
           <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@dendrobium4831" label="@dendrobium4831">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@omiguelzinpro" label="@omiguelzinpro">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@GeovannaVictoria-e2k" label="@GeovannaVictoria-e2k">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@dezoito18sbm" label="@dezoito18sbm">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="1" />
         </attvalues>
       </node>
       <node id="@pedrinnoherobrinepvp751" label="@pedrinnoherobrinepvp751">
@@ -1200,1423 +1098,1525 @@
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
-      <node id="@Yasmii_mimi" label="@Yasmii_mimi">
+      <node id="@Miguelaparecidomarcilino" label="@Miguelaparecidomarcilino">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@eaedinonerdjogos" label="@eaedinonerdjogos">
+        <attvalues>
+          <attvalue for="0" value="15" />
           <attvalue for="1" value="0" />
         </attvalues>
       </node>
-      <node id="@ivi8060" label="@ivi8060">
+      <node id="@Gladium_Victrix" label="@Gladium_Victrix">
         <attvalues>
-          <attvalue for="0" value="2" />
-          <attvalue for="1" value="2" />
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@Loli-iw" label="@Loli-iw">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="26" />
+        </attvalues>
+      </node>
+      <node id="@RethusOFC" label="@RethusOFC">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@RafaelSantanabarbosa-k8f" label="@RafaelSantanabarbosa-k8f">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@Nēčtøryx" label="@Nēčtøryx">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@alinecruz2154" label="@alinecruz2154">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@ralsei2681" label="@ralsei2681">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@EmillyVitóriaAlmeidaDornelles" label="@EmillyVitóriaAlmeidaDornelles">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@KemillyGarcia-h8j" label="@KemillyGarcia-h8j">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@WillianMiranda-r2q" label="@WillianMiranda-r2q">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@angeldevoss" label="@angeldevoss">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@MURILLOBFR" label="@MURILLOBFR">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@gamer25gm33" label="@gamer25gm33">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@gabrielbastosalvim8297" label="@gabrielbastosalvim8297">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@MariaClara-yp1zq" label="@MariaClara-yp1zq">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@MarcosAndre-to6zs" label="@MarcosAndre-to6zs">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@tiagopires8999" label="@tiagopires8999">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="6" />
         </attvalues>
       </node>
     </nodes>
     <edges>
-      <edge source="@SEGUNDOCONSTA" target="@Alessin_mdc" id="0">
+      <edge source="@JoãoVictorBartah" target="@ApenasMemes-0" id="0">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@SEGUNDOCONSTA" target="@DakiniDaya" id="1">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@SEGUNDOCONSTA" target="@SEGUNDOCONSTA" id="2">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@Kuroshovskivarovikisywi" target="@AnnyKarolineSantosSilva-f3e" id="3">
+      <edge source="@JoãoVictorBartah" target="@JoaoSantos-i6v" id="1">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@Nēčtøryx" target="@EmillyVitóriaAlmeidaDornelles" id="4">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Nēčtøryx" target="@Nēčtøryx" id="5">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@MariaClara-yp1zq" target="@anticapitalistinho" id="6">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@MariaClara-yp1zq" target="@MariaClara-yp1zq" id="7">
+      <edge source="@Viviane-je7nv" target="@MarcosAndre-to6zs" id="2">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@MariaClara-yp1zq" target="@Gladium_Victrix" id="8">
+      <edge source="@adrianvantasset8081" target="@DragonCityColeção" id="3">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@catypyp" target="@LuizaLuiza-h7k" id="9">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@catypyp" target="@AnaLeonor-p9c3i" id="10">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Marisquizo11" target="@gabrielbastosalvim8297" id="11">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Marisquizo11" target="@alexalves4733" id="12">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Marisquizo11" target="@EstêvãoRocha-e5l" id="13">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Marisquizo11" target="@Caiquecsf" id="14">
+      <edge source="@adrianvantasset8081" target="@lelaaraujolima2927" id="4">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@Marisquizo11" target="@Marisquizo11" id="15">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@EmillyVitóriaAlmeidaDornelles" target="@Comunista_Enrustida6378" id="16">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@EmillyVitóriaAlmeidaDornelles" target="@Jp-g4cy" id="17">
+      <edge source="@adrianvantasset8081" target="@EstêvãoRocha-e5l" id="5">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@EmillyVitóriaAlmeidaDornelles" target="@Nioniolion" id="18">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@EmillyVitóriaAlmeidaDornelles" target="@EmillyVitóriaAlmeidaDornelles" id="19">
+      <edge source="@adrianvantasset8081" target="@joelsonlimadeoliveiraolive9924" id="6">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@kaylanesilva5789" target="@GabrielolliverAlmeida" id="20">
+      <edge source="@adrianvantasset8081" target="@cronosdimitri4584" id="7">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@ralsei2681" target="@gabrielbastosalvim8297" id="21">
+      <edge source="@adrianvantasset8081" target="@gon6alves2001" id="8">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@adrianvantasset8081" target="@AnnyKarolineSantosSilva-f3e" id="9">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@adrianvantasset8081" target="@tiffanyglitterizada" id="10">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@ralsei2681" target="@alexalves4733" id="22">
+      <edge source="@adrianvantasset8081" target="@titiobarao" id="11">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@ralsei2681" target="@EstêvãoRocha-e5l" id="23">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ralsei2681" target="@RafaelSantanabarbosa-k8f" id="24">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ralsei2681" target="@cunhanavarro" id="25">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@leandroalbuquerque1652" target="@Comunista_Enrustida6378" id="26">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@leandroalbuquerque1652" target="@VontadedoFogo." id="27">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@leandroalbuquerque1652" target="@soulsvoiid" id="28">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@leandroalbuquerque1652" target="@leandroalbuquerque1652" id="29">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@cunhanavarro" target="@nessfromonett20" id="30">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@cunhanavarro" target="@cunhanavarro" id="31">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Okkyll" target="@EnzoGabrielRomao-q4n" id="32">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@balaxd00" target="@ZERODARKl444" id="33">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@balaxd00" target="@EstêvãoRocha-e5l" id="34">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@tiffanyglitterizada" target="@adrianvantasset8081" id="35">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@tiffanyglitterizada" target="@tiffanyglitterizada" id="36">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@aloi4" target="@ivi8060" id="37">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@tiagopires8999" target="@Lucas-vd2gx" id="38">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@tiagopires8999" target="@tiagopires8999" id="39">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@soulsvoiid" target="@riquinhomalokaoficial5816" id="40">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@soulsvoiid" target="@ferramentaboats6778" id="41">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@laelsonborges-q5i" target="@Tubekkj" id="42">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@laelsonborges-q5i" target="@Reimacaco-f8p" id="43">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@laelsonborges-q5i" target="@laelsonborges-q5i" id="44">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@MarcosAndre-to6zs" target="@pedrinnoherobrinepvp751" id="45">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@MarcosAndre-to6zs" target="@gabrielf.7968" id="46">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@MarcosAndre-to6zs" target="@MarcosAndre-to6zs" id="47">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@MarcosAndre-to6zs" target="@Viviane-je7nv" id="48">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Eevee_verso" target="@gabrielbastosalvim8297" id="49">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@AugusttoDalzotto" target="@Biazinha-wuw" id="50">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@AugusttoDalzotto" target="@FãdaPessy" id="51">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@AugusttoDalzotto" target="@Loli-iw" id="52">
-        <attvalues>
-          <attvalue for="2" value="19" />
-        </attvalues>
-      </edge>
-      <edge source="@AugusttoDalzotto" target="@AugusttoDalzotto" id="53">
-        <attvalues>
-          <attvalue for="2" value="24" />
-        </attvalues>
-      </edge>
-      <edge source="@nick_reus" target="@alinecruz2154" id="54">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@gabrielbastosalvim8297" target="@joelsonlimadeoliveiraolive9924" id="55">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@luksreakt" target="@MariaEduarda-i6z4h" id="56">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@luksreakt" target="@levi-x3e2r" id="57">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@bot-c5n" target="@GeovannaVictoria-e2k" id="58">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@bot-c5n" target="@bot-c5n" id="59">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Coizas" target="@Comunista_Enrustida6378" id="60">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Coizas" target="@iamsopro-q6y" id="61">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Coizas" target="@Coizas" id="62">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@Caiquecsf" target="@ApenasMemes-0" id="63">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@Caiquecsf" target="@Alessin_mdc" id="64">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Caiquecsf" target="@Caiquecsf" id="65">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@GeovannaVictoria-e2k" target="@GeovannaVictoria-e2k" id="66">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@FãdaPessy" target="@GodlyII" id="67">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@FãdaPessy" target="@Nycolas-cria" id="68">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@alexalves4733" target="@joelsonlimadeoliveiraolive9924" id="69">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@alexalves4733" target="@factsoflife-j5k" id="70">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Valdenor-i7k" target="@ApenasMemes-0" id="71">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Valdenor-i7k" target="@dendrobium4831" id="72">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Valdenor-i7k" target="@Estúdio-k5z" id="73">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Adiano355" target="@GonçaloCardoso-w4s" id="74">
-        <attvalues>
-          <attvalue for="2" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="@Adiano355" target="@RethusOFC" id="75">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Adiano355" target="@Arthur_Rigo_Andrade" id="76">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Adiano355" target="@B3rn-t2t" id="77">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Adiano355" target="@Kauan20104" id="78">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Adiano355" target="@Adiano355" id="79">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@GabrielolliverAlmeida" target="@GabrielolliverAlmeida" id="80">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Bagucinhadasarah" target="@SantanaWithout4" id="81">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Bagucinhadasarah" target="@ChrysBlox" id="82">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Bagucinhadasarah" target="@Bagucinhadasarah" id="83">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@marialoureiro9838" target="@pedrinnoherobrinepvp751" id="84">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@marialoureiro9838" target="@marialoureiro9838" id="85">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@lelaaraujolima2927" target="@adrianvantasset8081" id="86">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@lelaaraujolima2927" target="@lelaaraujolima2927" id="87">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Jp-g4cy" target="@jhonmilers1245" id="88">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Jp-g4cy" target="@JoaoSantos-i6v" id="89">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Jp-g4cy" target="@EnzoGabrielRomao-q4n" id="90">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Jp-g4cy" target="@kath-s5y" id="91">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Jp-g4cy" target="@werneroliveira6712" id="92">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@julliaperez1127" target="@Jota_Beto" id="93">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@julliaperez1127" target="@julliaperez1127" id="94">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@IzabellalemosnascimentoBella" target="@gamer25gm33" id="95">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@IzabellalemosnascimentoBella" target="@Lucas-vd2gx" id="96">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@IzabellalemosnascimentoBella" target="@IzabellalemosnascimentoBella" id="97">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@IzabellalemosnascimentoBella" target="@richas099" id="98">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@IzabellalemosnascimentoBella" target="@Loli-iw" id="99">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@AnnyKarolineSantosSilva-f3e" target="@adrianvantasset8081" id="100">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@AnnyKarolineSantosSilva-f3e" target="@Lucas-vd2gx" id="101">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@AnnyKarolineSantosSilva-f3e" target="@mabiasilveira2468" id="102">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Biazinha-wuw" target="@Gladium_Victrix" id="103">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Biazinha-wuw" target="@Jatujato" id="104">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Biazinha-wuw" target="@Samuel-blox-u4e" id="105">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Kauan_Santos384" target="@Alessin_mdc" id="106">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Kauan_Santos384" target="@Kauan_Santos384" id="107">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@mateusduarte8699" target="@WillianMiranda-r2q" id="108">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@mateusduarte8699" target="@FXdarlysson" id="109">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@xtheusz" target="@Kidmais18" id="110">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@xtheusz" target="@Loli-iw" id="111">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@xtheusz" target="@Nycolas-cria" id="112">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@xtheusz" target="@xtheusz" id="113">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@omiguelzinpro" target="@omiguelzinpro" id="114">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Anne_Antunes" target="@Itz_Madara_yt" id="115">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Anne_Antunes" target="@Anne_Antunes" id="116">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Benny_Yaky" target="@ravenafãclubedevicc" id="117">
-        <attvalues>
-          <attvalue for="2" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="@ferramentaboats6778" target="@ferramentaboats6778" id="118">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@Pedro-ip7ef" target="@Pedro-ip7ef" id="119">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@KemillyGarcia-h8j" target="@Kidmais18" id="120">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@KemillyGarcia-h8j" target="@richas099" id="121">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@KemillyGarcia-h8j" target="@KemillyGarcia-h8j" id="122">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@0Lalizinha0" target="@0Lalizinha0" id="123">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@LuizaLuiza-h7k" target="@bilada-sapeca" id="124">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@LuizaLuiza-h7k" target="@LuizaLuiza-h7k" id="125">
-        <attvalues>
-          <attvalue for="2" value="5" />
-        </attvalues>
-      </edge>
-      <edge source="@Mateussilvadearauj" target="@Migueldrs0da" id="126">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@werneroliveira6712" target="@Comunista_Enrustida6378" id="127">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@werneroliveira6712" target="@werneroliveira6712" id="128">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@titiobarao" target="@adrianvantasset8081" id="129">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@fatima.madeira" target="@Alessin_mdc" id="130">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@fatima.madeira" target="@fatima.madeira" id="131">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@adrianvantasset8081" target="@DragonCityColeção" id="132">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@adrianvantasset8081" target="@EstêvãoRocha-e5l" id="133">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@adrianvantasset8081" target="@joelsonlimadeoliveiraolive9924" id="134">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@adrianvantasset8081" target="@cronosdimitri4584" id="135">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@adrianvantasset8081" target="@gon6alves2001" id="136">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@adrianvantasset8081" target="@patriciabrandao2355" id="137">
+      <edge source="@adrianvantasset8081" target="@patriciabrandao2355" id="12">
         <attvalues>
           <attvalue for="2" value="7" />
         </attvalues>
       </edge>
-      <edge source="@adrianvantasset8081" target="@AlexandreTeixeira1" id="138">
+      <edge source="@adrianvantasset8081" target="@AlexandreTeixeira1" id="13">
         <attvalues>
           <attvalue for="2" value="4" />
         </attvalues>
       </edge>
-      <edge source="@jogadordouniverso2037" target="@fa_clube_da_tropa_do_zanella1" id="139">
+      <edge source="@alex_12340" target="@o.pedro_ferreirakp" id="14">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="@ravenafãclubedevicc" target="@oblivion.4ngel" id="15">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@ravenafãclubedevicc" target="@Benny_Yaky" id="16">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="@ravenafãclubedevicc" target="@ravenafãclubedevicc" id="17">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@DragonCityColeção" target="@DragonCityColeção" id="18">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@Acerola-nd8fg" target="@ApenasMemes-0" id="19">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Acerola-nd8fg" target="@Andre-o9t9t" id="20">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@LuísaDomingues-e2j" target="@jvarthurcostasilva" id="21">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@soulsvoiid" target="@leandroalbuquerque1652" id="22">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@VontadedoFogo." target="@Naapsy" id="140">
+      <edge source="@soulsvoiid" target="@riquinhomalokaoficial5816" id="23">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@soulsvoiid" target="@ferramentaboats6778" id="24">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@VitoriaSouza-fz3ej" target="@AnaLeonor-p9c3i" id="25">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@swasfutebol" target="@Naapsy" id="26">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@swasfutebol" target="@jvarthurcostasilva" id="27">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Mateussilvadearauj" target="@Migueldrs0da" id="28">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Reimacaco-f8p" target="@laelsonborges-q5i" id="29">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Reimacaco-f8p" target="@catalystx7" id="30">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@angelicacatarina4472" target="@isisazevedodias815" id="31">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@oblivion.4ngel" target="@MurilloRodrigues-w4r" id="32">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@oblivion.4ngel" target="@WillianMiranda-r2q" id="33">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@oblivion.4ngel" target="@Gabriel_Arcanjo_lgbt" id="34">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@oblivion.4ngel" target="@AnaLeonor-p9c3i" id="35">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@patriciabrandao2355" target="@patriciabrandao2355" id="36">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="@Hidekirrr" target="@MariaEduarda-i6z4h" id="37">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@anticapitalistinho" target="@MariaClara-yp1zq" id="38">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@ivi8060" target="@aloi4" id="39">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@ivi8060" target="@paulopubur7760" id="40">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@werneroliveira6712" target="@Comunista_Enrustida6378" id="41">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@werneroliveira6712" target="@Jp-g4cy" id="42">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@werneroliveira6712" target="@werneroliveira6712" id="43">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@FXdarlysson" target="@lucasguedes5326" id="44">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@FXdarlysson" target="@mateusduarte8699" id="45">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@FXdarlysson" target="@João-o8f7" id="46">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@jvarthurcostasilva" target="@RethusOFC" id="47">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@catypyp" target="@LuizaLuiza-h7k" id="48">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@catypyp" target="@AnaLeonor-p9c3i" id="49">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@fatima.madeira" target="@Alessin_mdc" id="50">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@fatima.madeira" target="@fatima.madeira" id="51">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@Coizas" target="@Comunista_Enrustida6378" id="52">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Coizas" target="@iamsopro-q6y" id="53">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Coizas" target="@Coizas" id="54">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@GabrielolliverAlmeida" target="@kaylanesilva5789" id="55">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@GabrielolliverAlmeida" target="@GabrielolliverAlmeida" id="56">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@ErasCraft" target="@RethusOFC" id="57">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@ErasCraft" target="@ErasCraft" id="58">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Lady-Lambdadelta" target="@paulopubur7760" id="59">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@nick_reus" target="@alinecruz2154" id="60">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@factsoflife-j5k" target="@alexalves4733" id="61">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@factsoflife-j5k" target="@factsoflife-j5k" id="62">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@AugusttoDalzotto" target="@Biazinha-wuw" id="63">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@AugusttoDalzotto" target="@FãdaPessy" id="64">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@AugusttoDalzotto" target="@Loli-iw" id="65">
+        <attvalues>
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="@AugusttoDalzotto" target="@AugusttoDalzotto" id="66">
+        <attvalues>
+          <attvalue for="2" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="@EstêvãoRocha-e5l" target="@Comunista_Enrustida6378" id="67">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@EstêvãoRocha-e5l" target="@balaxd00" id="68">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@EstêvãoRocha-e5l" target="@ralsei2681" id="69">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@EstêvãoRocha-e5l" target="@Marisquizo11" id="70">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@EstêvãoRocha-e5l" target="@EstêvãoRocha-e5l" id="71">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@JoaoSantos-i6v" target="@ApenasMemes-0" id="72">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@JoaoSantos-i6v" target="@GonçaloCardoso-w4s" id="73">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@JoaoSantos-i6v" target="@RethusOFC" id="74">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@JoaoSantos-i6v" target="@Jp-g4cy" id="75">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@adeildomartins487" target="@Kidmais18" id="76">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@adeildomartins487" target="@iamsopro-q6y" id="77">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@adeildomartins487" target="@ChrysBlox" id="78">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@adeildomartins487" target="@adeildomartins487" id="79">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Jp-g4cy" target="@jhonmilers1245" id="80">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Jp-g4cy" target="@EnzoGabrielRomao-q4n" id="81">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Jp-g4cy" target="@EmillyVitóriaAlmeidaDornelles" id="82">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Jp-g4cy" target="@kath-s5y" id="83">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Pedro-ip7ef" target="@Pedro-ip7ef" id="84">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@ChrysBlox" target="@Bagucinhadasarah" id="85">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@ChrysBlox" target="@Samuel-blox-u4e" id="86">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@DakiniDaya" target="@SEGUNDOCONSTA" id="87">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@DakiniDaya" target="@cronosdimitri4584" id="88">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@DakiniDaya" target="@theharbingerofconflation" id="89">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@DakiniDaya" target="@gon6alves2001" id="90">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@claitontinho3908" target="@bcastiel" id="91">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@claitontinho3908" target="@claitontinho3908" id="92">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@SantanaWithout4" target="@alinecruz2154" id="93">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@SantanaWithout4" target="@MariaEduardaFerreira-b6k" id="94">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@SantanaWithout4" target="@italo687" id="95">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="@SantanaWithout4" target="@Bagucinhadasarah" id="96">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@cunhanavarro" target="@nessfromonett20" id="97">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@cunhanavarro" target="@ralsei2681" id="98">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@cunhanavarro" target="@cunhanavarro" id="99">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@riquinhomalokaoficial5816" target="@riquinhomalokaoficial5816" id="100">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@GonçaloCardoso-w4s" target="@Adiano355" id="101">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="@GonçaloCardoso-w4s" target="@Miguelaparecidomarcilino" id="102">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@GonçaloCardoso-w4s" target="@GonçaloCardoso-w4s" id="103">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@GonçaloCardoso-w4s" target="@SilmaraSilva-o6s" id="104">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@ZERODARKl444" target="@nessfromonett20" id="105">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@ZERODARKl444" target="@balaxd00" id="106">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@ZERODARKl444" target="@ZERODARKl444" id="107">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Naapsy" target="@VontadedoFogo." id="108">
         <attvalues>
           <attvalue for="2" value="6" />
         </attvalues>
       </edge>
-      <edge source="@VontadedoFogo." target="@RAFINHA-0ab" id="141">
+      <edge source="@Naapsy" target="@jhonmilers1245" id="109">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="@Naapsy" target="@Naapsy" id="110">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@B3rn-t2t" target="@Adiano355" id="111">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@Nycolas-cria" target="@richas099" id="142">
+      <edge source="@B3rn-t2t" target="@SilmaraSilva-o6s" id="112">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Okkyll" target="@EnzoGabrielRomao-q4n" id="113">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@Nycolas-cria" target="@Loli-iw" id="143">
+      <edge source="@Andre-o9t9t" target="@Makoto-Souza-r6b" id="114">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@Nycolas-cria" target="@bianca_editszinha" id="144">
+      <edge source="@RAFINHA-0ab" target="@Comunista_Enrustida6378" id="115">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@AlexandreTeixeira1" target="@AlexandreTeixeira1" id="145">
+      <edge source="@RAFINHA-0ab" target="@VontadedoFogo." id="116">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@RAFINHA-0ab" target="@RAFINHA-0ab" id="117">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Migueldrs0da" target="@Migueldrs0da" id="118">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Makoto-Souza-r6b" target="@Ruanggytb" id="119">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@Makoto-Souza-r6b" target="@dezoito18sbm" id="120">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Makoto-Souza-r6b" target="@Makoto-Souza-r6b" id="121">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@EdtsDaTropaDoTaspio12" target="@Loli-iw" id="122">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@EdtsDaTropaDoTaspio12" target="@EdtsDaTropaDoTaspio12" id="123">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@bianca_editszinha" target="@Nycolas-cria" id="124">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@bianca_editszinha" target="@fa_clube_da_tropa_do_zanella1" id="125">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@FãdaPessy" target="@GodlyII" id="126">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@FãdaPessy" target="@Nycolas-cria" id="127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Kidmais18" target="@KemillyGarcia-h8j" id="128">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Kidmais18" target="@xtheusz" id="129">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Kauan20104" target="@Adiano355" id="130">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Kauan20104" target="@SilmaraSilva-o6s" id="131">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Kauan20104" target="@ARTHURGQMER007" id="132">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@ferramentaboats6778" target="@ferramentaboats6778" id="133">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@JeanCarlo-r2c" target="@JeanCarlo-r2c" id="134">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@JeanCarlo-r2c" target="@pedrinnoherobrinepvp751" id="135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@xtheusz" target="@Loli-iw" id="136">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@xtheusz" target="@Nycolas-cria" id="137">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@xtheusz" target="@xtheusz" id="138">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@LeicesterForest-kd9sg" target="@VauanyOliveira" id="139">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@gabrielf.7968" target="@MarcosAndre-to6zs" id="140">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@o.pedro_ferreirakp" target="@o.pedro_ferreirakp" id="141">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="@laelsonborges-q5i" target="@Tubekkj" id="142">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@laelsonborges-q5i" target="@laelsonborges-q5i" id="143">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Palmeiras2335" target="@Palmeiras2335" id="144">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Samuel-blox-u4e" target="@Biazinha-wuw" id="145">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Samuel-blox-u4e" target="@iamsopro-q6y" id="146">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Samuel-blox-u4e" target="@Samuel-blox-u4e" id="147">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@ApenasMemes-0" target="@Comunista_Enrustida6378" id="148">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@ApenasMemes-0" target="@Caiquecsf" id="149">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@ApenasMemes-0" target="@Valdenor-i7k" id="150">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@MurilloRodrigues-w4r" target="@MurilloRodrigues-w4r" id="151">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@VauanyOliveira" target="@VauanyOliveira" id="152">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@GodlyII" target="@richas099" id="153">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@GodlyII" target="@Loli-iw" id="154">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@GodlyII" target="@GodlyII" id="155">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@lelaaraujolima2927" target="@lelaaraujolima2927" id="156">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@mabiasilveira2468" target="@AnnyKarolineSantosSilva-f3e" id="157">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@AlexandreTeixeira1" target="@AlexandreTeixeira1" id="158">
         <attvalues>
           <attvalue for="2" value="8" />
         </attvalues>
       </edge>
-      <edge source="@GodlyII" target="@richas099" id="146">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@GodlyII" target="@Loli-iw" id="147">
+      <edge source="@ARTHURGQMER007" target="@Miguelaparecidomarcilino" id="159">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@GodlyII" target="@GodlyII" id="148">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@Nãoseioqcolocar-k9p" target="@richas099" id="149">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Nãoseioqcolocar-k9p" target="@Loli-iw" id="150">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Nãoseioqcolocar-k9p" target="@Nãoseioqcolocar-k9p" id="151">
+      <edge source="@ARTHURGQMER007" target="@Arthur_Rigo_Andrade" id="160">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@JoaoSantos-i6v" target="@ApenasMemes-0" id="152">
+      <edge source="@ARTHURGQMER007" target="@ARTHURGQMER007" id="161">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@JoaoSantos-i6v" target="@GonçaloCardoso-w4s" id="153">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@JoaoSantos-i6v" target="@RethusOFC" id="154">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@JoaoSantos-i6v" target="@JoãoVictorBartah" id="155">
+      <edge source="@LuizaLuiza-h7k" target="@bilada-sapeca" id="162">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@oblivion.4ngel" target="@MurilloRodrigues-w4r" id="156">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@oblivion.4ngel" target="@WillianMiranda-r2q" id="157">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@oblivion.4ngel" target="@ravenafãclubedevicc" id="158">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@oblivion.4ngel" target="@Gabriel_Arcanjo_lgbt" id="159">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@oblivion.4ngel" target="@AnaLeonor-p9c3i" id="160">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@MURILLOBFR" target="@aeep777-n3p" id="161">
+      <edge source="@LuizaLuiza-h7k" target="@LuizaLuiza-h7k" id="163">
         <attvalues>
           <attvalue for="2" value="5" />
         </attvalues>
       </edge>
-      <edge source="@GonçaloCardoso-w4s" target="@Miguelaparecidomarcilino" id="162">
+      <edge source="@kath-s5y" target="@Comunista_Enrustida6378" id="164">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@GonçaloCardoso-w4s" target="@GonçaloCardoso-w4s" id="163">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@GonçaloCardoso-w4s" target="@SilmaraSilva-o6s" id="164">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@DragonCityColeção" target="@DragonCityColeção" id="165">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@bcastiel" target="@claitontinho3908" id="166">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@jhonmilers1245" target="@Comunista_Enrustida6378" id="167">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@jhonmilers1245" target="@Anyh23" id="168">
+      <edge source="@kath-s5y" target="@kath-s5y" id="165">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@jhonmilers1245" target="@Naapsy" id="169">
-        <attvalues>
-          <attvalue for="2" value="6" />
-        </attvalues>
-      </edge>
-      <edge source="@jhonmilers1245" target="@Nioniolion" id="170">
+      <edge source="@Bagucinhadasarah" target="@Bagucinhadasarah" id="166">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@jhonmilers1245" target="@jhonmilers1245" id="171">
+      <edge source="@cronosdimitri4584" target="@cronosdimitri4584" id="167">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Adiano355" target="@RethusOFC" id="168">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Adiano355" target="@Arthur_Rigo_Andrade" id="169">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Adiano355" target="@Adiano355" id="170">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@catalystx7" target="@catalystx7" id="171">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@EnzoGabrielRomao-q4n" target="@Nioniolion" id="172">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@EnzoGabrielRomao-q4n" target="@dendrobium4831" id="173">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@CarloseduardoSilvanunes-s3w6w" target="@Lucas-vd2gx" id="174">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@CarloseduardoSilvanunes-s3w6w" target="@CarloseduardoSilvanunes-s3w6w" id="175">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Gabriel_Arcanjo_lgbt" target="@Comunista_Enrustida6378" id="176">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Gabriel_Arcanjo_lgbt" target="@Gabriel_Arcanjo_lgbt" id="177">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Gabriel_Arcanjo_lgbt" target="@Danony777" id="178">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@carolindaaaa7" target="@Comunista_Enrustida6378" id="179">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Lucas-vd2gx" target="@IzabellalemosnascimentoBella" id="180">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Lucas-vd2gx" target="@AnnyKarolineSantosSilva-f3e" id="181">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Lucas-vd2gx" target="@ax7miguelkkj" id="182">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Lucas-vd2gx" target="@tiagopires8999" id="183">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@theharbingerofconflation" target="@theharbingerofconflation" id="184">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Eevee_verso" target="@gabrielbastosalvim8297" id="185">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@ax7miguelkkj" target="@QuintetoFofura" id="186">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@ax7miguelkkj" target="@ax7miguelkkj" id="187">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@ax7miguelkkj" target="@daniloamaranto3183" id="188">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@SEGUNDOCONSTA" target="@Alessin_mdc" id="189">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@SEGUNDOCONSTA" target="@SEGUNDOCONSTA" id="190">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@Nycolas-cria" target="@richas099" id="191">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Nycolas-cria" target="@Loli-iw" id="192">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Caiquecsf" target="@Marisquizo11" id="193">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Caiquecsf" target="@Alessin_mdc" id="194">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Caiquecsf" target="@Caiquecsf" id="195">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@MariaEduarda-i6z4h" target="@luksreakt" id="196">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@MariaEduarda-i6z4h" target="@TheRobot-v4j" id="197">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@MariaEduarda-i6z4h" target="@MariaEduarda-i6z4h" id="198">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="@TheRobot-v4j" target="@levi-x3e2r" id="199">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@iamsopro-q6y" target="@Gladium_Victrix" id="200">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@iamsopro-q6y" target="@aeep777-n3p" id="201">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Comunista_Enrustida6378" target="@jhonmilers1245" id="202">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Comunista_Enrustida6378" target="@EmillyVitóriaAlmeidaDornelles" id="203">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Comunista_Enrustida6378" target="@Jatujato" id="204">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Comunista_Enrustida6378" target="@joelsonlimadeoliveiraolive9924" id="205">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Comunista_Enrustida6378" target="@leandroalbuquerque1652" id="206">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Comunista_Enrustida6378" target="@paulopubur7760" id="207">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@mateusduarte8699" target="@WillianMiranda-r2q" id="208">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Jatujato" target="@Biazinha-wuw" id="209">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Jatujato" target="@Jatujato" id="210">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@bot-c5n" target="@GeovannaVictoria-e2k" id="211">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@bot-c5n" target="@bot-c5n" id="212">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@marialoureiro9838" target="@pedrinnoherobrinepvp751" id="213">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@marialoureiro9838" target="@marialoureiro9838" id="214">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@IzabellalemosnascimentoBella" target="@gamer25gm33" id="215">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@IzabellalemosnascimentoBella" target="@IzabellalemosnascimentoBella" id="216">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@IzabellalemosnascimentoBella" target="@richas099" id="217">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@IzabellalemosnascimentoBella" target="@Loli-iw" id="218">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@0Lalizinha0" target="@0Lalizinha0" id="219">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@gon6alves2001" target="@gon6alves2001" id="220">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@GabrielAraujo-ez8mn" target="@GabrielAraujo-ez8mn" id="221">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@GabrielAraujo-ez8mn" target="@Anyh23" id="222">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@italo687" target="@italo687" id="223">
         <attvalues>
           <attvalue for="2" value="4" />
         </attvalues>
       </edge>
-      <edge source="@Reimacaco-f8p" target="@catalystx7" id="172">
+      <edge source="@Jota_Beto" target="@julliaperez1127" id="224">
         <attvalues>
-          <attvalue for="2" value="1" />
+          <attvalue for="2" value="3" />
         </attvalues>
       </edge>
-      <edge source="@SilmaraSilva-o6s" target="@Kauan20104" id="173">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@SilmaraSilva-o6s" target="@B3rn-t2t" id="174">
+      <edge source="@leandroalbuquerque1652" target="@VontadedoFogo." id="225">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@aeep777-n3p" target="@iamsopro-q6y" id="175">
+      <edge source="@leandroalbuquerque1652" target="@leandroalbuquerque1652" id="226">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@aeep777-n3p" target="@aeep777-n3p" id="176">
+      <edge source="@Estúdio-k5z" target="@Valdenor-i7k" id="227">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Nãoseioqcolocar-k9p" target="@richas099" id="228">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Nãoseioqcolocar-k9p" target="@Loli-iw" id="229">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Nãoseioqcolocar-k9p" target="@Nãoseioqcolocar-k9p" id="230">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@joaopaulo.minasgererais" target="@joaopaulo.minasgererais" id="231">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@jhonmilers1245" target="@Anyh23" id="232">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@jhonmilers1245" target="@Nioniolion" id="233">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@jhonmilers1245" target="@jhonmilers1245" id="234">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="@fa_clube_da_tropa_do_zanella1" target="@jogadordouniverso2037" id="235">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@fa_clube_da_tropa_do_zanella1" target="@fa_clube_da_tropa_do_zanella1" id="236">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Itz_Madara_yt" target="@Anne_Antunes" id="237">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@alexalves4733" target="@joelsonlimadeoliveiraolive9924" id="238">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@alexalves4733" target="@ralsei2681" id="239">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@alexalves4733" target="@Marisquizo11" id="240">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@NatachaCavalheiro-o3j" target="@Loli-iw" id="241">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@NatachaCavalheiro-o3j" target="@NatachaCavalheiro-o3j" id="242">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="@aeep777-n3p" target="@MURILLOBFR" id="243">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="@aeep777-n3p" target="@aeep777-n3p" id="244">
         <attvalues>
           <attvalue for="2" value="10" />
         </attvalues>
       </edge>
-      <edge source="@VauanyOliveira" target="@LeicesterForest-kd9sg" id="177">
+      <edge source="@tiffanyglitterizada" target="@tiffanyglitterizada" id="245">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@VauanyOliveira" target="@VauanyOliveira" id="178">
+      <edge source="@Kuroshovskivarovikisywi" target="@AnnyKarolineSantosSilva-f3e" id="246">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Valdenor-i7k" target="@dendrobium4831" id="247">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@luksreakt" target="@levi-x3e2r" id="248">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@Lucas-vd2gx" target="@CarloseduardoSilvanunes-s3w6w" id="179">
+      <edge source="@nessfromonett20" target="@nessfromonett20" id="249">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@Lucas-vd2gx" target="@ax7miguelkkj" id="180">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@angelicacatarina4472" target="@isisazevedodias815" id="181">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@iamsopro-q6y" target="@Gladium_Victrix" id="182">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@iamsopro-q6y" target="@Samuel-blox-u4e" id="183">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@iamsopro-q6y" target="@adeildomartins487" id="184">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@theharbingerofconflation" target="@DakiniDaya" id="185">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@theharbingerofconflation" target="@theharbingerofconflation" id="186">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Gabriel_Arcanjo_lgbt" target="@Comunista_Enrustida6378" id="187">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Gabriel_Arcanjo_lgbt" target="@Gabriel_Arcanjo_lgbt" id="188">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Gabriel_Arcanjo_lgbt" target="@Danony777" id="189">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@MariaEduardaFerreira-b6k" target="@SantanaWithout4" id="190">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@MariaEduardaFerreira-b6k" target="@MariaEduardaFerreira-b6k" id="191">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Comunista_Enrustida6378" target="@EstêvãoRocha-e5l" id="192">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Comunista_Enrustida6378" target="@ApenasMemes-0" id="193">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Comunista_Enrustida6378" target="@kath-s5y" id="194">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Comunista_Enrustida6378" target="@Jatujato" id="195">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Comunista_Enrustida6378" target="@joelsonlimadeoliveiraolive9924" id="196">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Comunista_Enrustida6378" target="@RAFINHA-0ab" id="197">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Comunista_Enrustida6378" target="@paulopubur7760" id="198">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Comunista_Enrustida6378" target="@carolindaaaa7" id="199">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Palmeiras2335" target="@Palmeiras2335" id="200">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@o.pedro_ferreirakp" target="@alex_12340" id="201">
-        <attvalues>
-          <attvalue for="2" value="5" />
-        </attvalues>
-      </edge>
-      <edge source="@o.pedro_ferreirakp" target="@o.pedro_ferreirakp" id="202">
-        <attvalues>
-          <attvalue for="2" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="@LuísaDomingues-e2j" target="@jvarthurcostasilva" id="203">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@dezoito18sbm" target="@Makoto-Souza-r6b" id="204">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@NatachaCavalheiro-o3j" target="@Loli-iw" id="205">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@NatachaCavalheiro-o3j" target="@NatachaCavalheiro-o3j" id="206">
-        <attvalues>
-          <attvalue for="2" value="5" />
-        </attvalues>
-      </edge>
-      <edge source="@ZERODARKl444" target="@nessfromonett20" id="207">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ZERODARKl444" target="@ZERODARKl444" id="208">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@kath-s5y" target="@kath-s5y" id="209">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@ApenasMemes-0" target="@JoãoVictorBartah" id="210">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ApenasMemes-0" target="@Acerola-nd8fg" id="211">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@TheRobot-v4j" target="@MariaEduarda-i6z4h" id="212">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@TheRobot-v4j" target="@levi-x3e2r" id="213">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Arthur_Rigo_Andrade" target="@ARTHURGQMER007" id="214">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@daniloamaranto3183" target="@ax7miguelkkj" id="215">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@RAFINHA-0ab" target="@RAFINHA-0ab" id="216">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ARTHURGQMER007" target="@Kauan20104" id="217">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ARTHURGQMER007" target="@Miguelaparecidomarcilino" id="218">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ARTHURGQMER007" target="@ARTHURGQMER007" id="219">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@EnzoGabrielRomao-q4n" target="@Nioniolion" id="220">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@EnzoGabrielRomao-q4n" target="@dendrobium4831" id="221">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ax7miguelkkj" target="@QuintetoFofura" id="222">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ax7miguelkkj" target="@ax7miguelkkj" id="223">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@CarloseduardoSilvanunes-s3w6w" target="@CarloseduardoSilvanunes-s3w6w" id="224">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Loli-iw" target="@EdtsDaTropaDoTaspio12" id="225">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ChrysBlox" target="@Samuel-blox-u4e" id="226">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@ChrysBlox" target="@adeildomartins487" id="227">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@Samuel-blox-u4e" target="@Samuel-blox-u4e" id="228">
+      <edge source="@levi-x3e2r" target="@levi-x3e2r" id="250">
         <attvalues>
           <attvalue for="2" value="3" />
         </attvalues>
       </edge>
-      <edge source="@cronosdimitri4584" target="@DakiniDaya" id="229">
+      <edge source="@paulopubur7760" target="@paulopubur7760" id="251">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Kauan_Santos384" target="@Alessin_mdc" id="252">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@cronosdimitri4584" target="@cronosdimitri4584" id="230">
+      <edge source="@Kauan_Santos384" target="@Kauan_Santos384" id="253">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@paulopubur7760" target="@ivi8060" id="231">
+      <edge source="@richas099" target="@KemillyGarcia-h8j" id="254">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@paulopubur7760" target="@Lady-Lambdadelta" id="232">
+      <edge source="@julliaperez1127" target="@julliaperez1127" id="255">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@paulopubur7760" target="@paulopubur7760" id="233">
+      <edge source="@Anne_Antunes" target="@Anne_Antunes" id="256">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@nessfromonett20" target="@nessfromonett20" id="234">
+      <edge source="@Marisquizo11" target="@gabrielbastosalvim8297" id="257">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@bianca_editszinha" target="@fa_clube_da_tropa_do_zanella1" id="235">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@patriciabrandao2355" target="@patriciabrandao2355" id="236">
-        <attvalues>
-          <attvalue for="2" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="@Hidekirrr" target="@MariaEduarda-i6z4h" id="237">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@VitoriaSouza-fz3ej" target="@AnaLeonor-p9c3i" id="238">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@RethusOFC" target="@ErasCraft" id="239">
+      <edge source="@Marisquizo11" target="@Marisquizo11" id="258">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@RethusOFC" target="@jvarthurcostasilva" id="240">
+      <edge source="@AnaLeonor-p9c3i" target="@AnaLeonor-p9c3i" id="259">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@MariaEduardaFerreira-b6k" target="@MariaEduardaFerreira-b6k" id="260">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@joelsonlimadeoliveiraolive9924" target="@gabrielbastosalvim8297" id="261">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@joelsonlimadeoliveiraolive9924" target="@joelsonlimadeoliveiraolive9924" id="262">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Biazinha-wuw" target="@Gladium_Victrix" id="263">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@Nioniolion" target="@EmillyVitóriaAlmeidaDornelles" id="264">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="@omiguelzinpro" target="@omiguelzinpro" id="265">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@GeovannaVictoria-e2k" target="@GeovannaVictoria-e2k" id="266">
         <attvalues>
           <attvalue for="2" value="3" />
         </attvalues>
       </edge>
-      <edge source="@Kidmais18" target="@adeildomartins487" id="241">
+      <edge source="@pedrinnoherobrinepvp751" target="@MarcosAndre-to6zs" id="267">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@Andre-o9t9t" target="@Acerola-nd8fg" id="242">
+      <edge source="@Gladium_Victrix" target="@MariaClara-yp1zq" id="268">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@Andre-o9t9t" target="@Makoto-Souza-r6b" id="243">
+      <edge source="@RafaelSantanabarbosa-k8f" target="@ralsei2681" id="269">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@FXdarlysson" target="@lucasguedes5326" id="244">
+      <edge source="@RafaelSantanabarbosa-k8f" target="@RafaelSantanabarbosa-k8f" id="270">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@Nēčtøryx" target="@EmillyVitóriaAlmeidaDornelles" id="271">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@FXdarlysson" target="@João-o8f7" id="245">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@claitontinho3908" target="@claitontinho3908" id="246">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@jvarthurcostasilva" target="@swasfutebol" id="247">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@WillianMiranda-r2q" target="@WillianMiranda-r2q" id="248">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@RafaelSantanabarbosa-k8f" target="@RafaelSantanabarbosa-k8f" id="249">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Anyh23" target="@GabrielAraujo-ez8mn" id="250">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Naapsy" target="@Naapsy" id="251">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@Naapsy" target="@swasfutebol" id="252">
+      <edge source="@Nēčtøryx" target="@Nēčtøryx" id="272">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@Migueldrs0da" target="@Migueldrs0da" id="253">
+      <edge source="@alinecruz2154" target="@alinecruz2154" id="273">
         <attvalues>
           <attvalue for="2" value="2" />
         </attvalues>
       </edge>
-      <edge source="@EstêvãoRocha-e5l" target="@EstêvãoRocha-e5l" id="254">
+      <edge source="@ralsei2681" target="@gabrielbastosalvim8297" id="274">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@EmillyVitóriaAlmeidaDornelles" target="@EmillyVitóriaAlmeidaDornelles" id="275">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@KemillyGarcia-h8j" target="@KemillyGarcia-h8j" id="276">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@WillianMiranda-r2q" target="@WillianMiranda-r2q" id="277">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@MariaClara-yp1zq" target="@MariaClara-yp1zq" id="278">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="@MarcosAndre-to6zs" target="@MarcosAndre-to6zs" id="279">
         <attvalues>
           <attvalue for="2" value="1" />
         </attvalues>
       </edge>
-      <edge source="@Ruanggytb" target="@Makoto-Souza-r6b" id="255">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@riquinhomalokaoficial5816" target="@riquinhomalokaoficial5816" id="256">
+      <edge source="@tiagopires8999" target="@tiagopires8999" id="280">
         <attvalues>
           <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@SantanaWithout4" target="@alinecruz2154" id="257">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@SantanaWithout4" target="@italo687" id="258">
-        <attvalues>
-          <attvalue for="2" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="@ravenafãclubedevicc" target="@ravenafãclubedevicc" id="259">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@joelsonlimadeoliveiraolive9924" target="@joelsonlimadeoliveiraolive9924" id="260">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@joaopaulo.minasgererais" target="@joaopaulo.minasgererais" id="261">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@EdtsDaTropaDoTaspio12" target="@EdtsDaTropaDoTaspio12" id="262">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@alinecruz2154" target="@alinecruz2154" id="263">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@Makoto-Souza-r6b" target="@Makoto-Souza-r6b" id="264">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@italo687" target="@italo687" id="265">
-        <attvalues>
-          <attvalue for="2" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="@gon6alves2001" target="@DakiniDaya" id="266">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@gon6alves2001" target="@gon6alves2001" id="267">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@GabrielAraujo-ez8mn" target="@GabrielAraujo-ez8mn" id="268">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@levi-x3e2r" target="@levi-x3e2r" id="269">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@Jatujato" target="@Jatujato" id="270">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@adeildomartins487" target="@adeildomartins487" id="271">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@factsoflife-j5k" target="@factsoflife-j5k" id="272">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@MariaEduarda-i6z4h" target="@MariaEduarda-i6z4h" id="273">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@AnaLeonor-p9c3i" target="@AnaLeonor-p9c3i" id="274">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@MurilloRodrigues-w4r" target="@MurilloRodrigues-w4r" id="275">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@ErasCraft" target="@ErasCraft" id="276">
-        <attvalues>
-          <attvalue for="2" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="@fa_clube_da_tropa_do_zanella1" target="@fa_clube_da_tropa_do_zanella1" id="277">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@JeanCarlo-r2c" target="@JeanCarlo-r2c" id="278">
-        <attvalues>
-          <attvalue for="2" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="@JeanCarlo-r2c" target="@pedrinnoherobrinepvp751" id="279">
-        <attvalues>
-          <attvalue for="2" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="@catalystx7" target="@catalystx7" id="280">
-        <attvalues>
-          <attvalue for="2" value="1" />
         </attvalues>
       </edge>
     </edges>
