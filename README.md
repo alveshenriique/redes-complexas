@@ -29,7 +29,8 @@ A análise foi conduzida em duas frentes principais:
 1.  **Coleta de Dados:** Extração da rede de respostas aos comentários via API do YouTube v3.
 2.  **Análise da Rede Completa:** Construção do grafo principal para mapear a estrutura geral do debate e quantificar a polarização pela métrica de modularidade (algoritmo Louvain).
 3.  **Análise do Núcleo Denso (K-Core):** Aplicação de um filtro k-core para isolar o subgrupo de usuários mais engajados e investigar se a polarização se intensifica neste núcleo.
-4.  **Visualização:** Uso do software Gephi para a renderização e exploração visual dos grafos.
+4.  **Análise da Rede de Autoridades:** Criação de um subgrafo composto pelos usuários mais influentes (maior grau de centralidade) para analisar a dinâmica de interação da "elite" da discussão.
+5.  **Visualização:** Uso do software Gephi para a renderização e exploração visual dos grafos.
 
 ### Análise de Conteúdo (Processamento de Linguagem Natural)
 1.  **Pré-processamento:** Limpeza e normalização do texto dos comentários (remoção de stopwords, pontuação, etc.).
