@@ -84,6 +84,7 @@ Para replicar esta análise, siga os passos abaixo:
         ```env
         YOUTUBE_API_KEY_1="SUA_CHAVE_DE_API_1"
         YOUTUBE_API_KEY_2="SUA_CHAVE_DE_API_2"
+        YOUTUBE_API_KEY_2="SUA_CHAVE_DE_API_3"
         ```
 
 5.  **Execute a Coleta e a Análise:**
