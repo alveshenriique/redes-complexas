@@ -6,7 +6,7 @@ O objetivo principal é mapear a topologia da discussão, identificar a formaç�
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 O projeto é organizado na seguinte estrutura de pastas para garantir a reprodutibilidade e a clareza da análise:
 
@@ -19,7 +19,7 @@ O projeto é organizado na seguinte estrutura de pastas para garantir a reprodut
 
 ---
 
-## 🔬 Metodologia
+## Metodologia
 
 A análise foi conduzida em múltiplas camadas para extrair insights tanto da estrutura geral da rede quanto de subgrupos específicos de interesse.
 
@@ -44,7 +44,7 @@ A análise foi conduzida em múltiplas camadas para extrair insights tanto da es
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 Para replicar esta análise, siga os passos abaixo:
 
