@@ -83,6 +83,6 @@ Para replicar esta análise, siga os passos abaixo:
 
 ---
 
-## 📊 Resultados Preliminares
+## Resultados Preliminares
 
 A análise inicial da rede completa revelou uma estrutura com alta modularidade (Q > 0.4), indicando uma forte divisão em comunidades com pouca interação entre si, o que caracteriza um debate polarizado. A investigação dos subgrafos (núcleo denso e autoridades) aprofunda essa observação, analisando como a polarização se manifesta em diferentes estratos de engajamento dos usuários. As visualizações finais podem ser encontradas na pasta `/figures`.
